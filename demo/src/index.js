@@ -21,7 +21,7 @@
 // // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // // reportWebVitals();
 import { createRoot } from 'react-dom/client';
-// import App from './App';
-import App from './App1';
+import App from './App';
+// import App from './App1';
 
 createRoot(document.getElementById('root')).render(<App />);
